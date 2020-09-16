@@ -6,6 +6,7 @@ Base on [dwm-6.2](https://dl.suckless.org/dwm/dwm-6.2.tar.gz) version.
 
 Patchs:
   - [actualfullscreen](https://dwm.suckless.org/patches/actualfullscreen/)
+  - [alpha](https://dwm.suckless.org/patches/alpha/)
 
 ## Requirements
 In order to build dwm you need the Xlib header files.
