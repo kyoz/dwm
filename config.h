@@ -11,8 +11,8 @@ static const int topbar             = 1;        /* 0 means bottom bar */
  *static const char dmenufont[]       = "Iosevka Nerd Font:size=14";
 */
 /* Retina Screen */
-static const char *fonts[]          = { "Iosevka Nerd Font:size=16" };
-static const char dmenufont[]       = "Iosevka Nerd Font:size=18";
+static const char *fonts[]          = { "Iosevka Nerd Font:size=13" };
+static const char dmenufont[]       = "Iosevka Nerd Font:size=15";
 
 static const char col_gray1[]       = "#282C34";
 static const char col_gray2[]       = "#444444";
