@@ -67,6 +67,8 @@ static char dmenumon[2] = "0"; /* component of dmenucmd, manipulated in spawn() 
 static const char *dmenucmd[] = { "dmenu_run", "-m", dmenumon, "-fn", dmenufont, "-nb", col_gray1, "-nf", col_gray3, "-sb", col_cyan, "-sf", col_gray4, NULL };
 static const char *termcmd[]  = { "st", NULL };
 
+#include "selfrestart.c"
+
 static Key keys[] = {
 	/* modifier                     key          function        argument */
 	{ MODKEY,                       XK_d,        spawn,          {.v = dmenucmd } },
@@ -105,6 +107,7 @@ static Key keys[] = {
 	TAGKEYS(                        XK_8,                        7)
 	TAGKEYS(                        XK_9,                        8)
 	{ MODKEY|ShiftMask,             XK_BackSpace, quit,          {0} },
+  { MODKEY|ShiftMask,             XK_F5,        self_restart,   {0} },
 };
 
 /* button definitions */
