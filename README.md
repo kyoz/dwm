@@ -9,6 +9,7 @@ Patchs:
   - [alpha](https://dwm.suckless.org/patches/alpha/)
   - [attachasideandbelow](https://dwm.suckless.org/patches/attachasideandbelow/)
   - [autoresize](https://dwm.suckless.org/patches/autoresize/)
+  - [fullgaps](https://dwm.suckless.org/patches/fullgaps/)
 
 ## Requirements
 In order to build dwm you need the Xlib header files.
