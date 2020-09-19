@@ -11,6 +11,7 @@ Patchs:
   - [autoresize](https://dwm.suckless.org/patches/autoresize/)
   - [fullgaps](https://dwm.suckless.org/patches/fullgaps/)
   - [hide_vacant_tags](https://dwm.suckless.org/patches/hide_vacant_tags/)
+  - [inplacerotate](https://dwm.suckless.org/patches/inplacerotate/)
 
 ## Requirements
 In order to build dwm you need the Xlib header files.
