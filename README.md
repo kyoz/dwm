@@ -14,6 +14,7 @@ Patchs:
   - [inplacerotate](https://dwm.suckless.org/patches/inplacerotate/)
   - [swapfocus](https://dwm.suckless.org/patches/swapfocus)
   - [selfrestart](https://dwm.suckless.org/patches/selfrestart/)
+  - [pertag](https://dwm.suckless.org/patches/pertag/)
 
 ## Requirements
 In order to build dwm you need the Xlib header files.
