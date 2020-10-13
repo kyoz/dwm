@@ -1,6 +1,10 @@
 # Kyoz's fork of the suckless dynamic window manager (dwm)
 > [dwm](https://dwm.suckless.org/) is a simple, light weight, powerful dynamic window manager for X
 
+<p align="center">
+  <img src="demo.png" width="1000">
+</p>
+
 ## Information
 Base on [dwm-6.2](https://dl.suckless.org/dwm/dwm-6.2.tar.gz) version.
 
